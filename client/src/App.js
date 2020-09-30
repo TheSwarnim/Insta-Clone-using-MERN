@@ -55,7 +55,7 @@ const Routing = () => {
 
       <Route path="/myfollowingpost">
         <SubUserPost />
-      </Route>
+      </Route> 
     </Switch>
   );
 };
